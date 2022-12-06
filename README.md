@@ -29,6 +29,7 @@ it's available in DeepLabV3Plus's github - dropbox.
   month = {October},
 year = {2019}
 }
+
 https://github.com/nianticlabs/monodepth2
 
 
