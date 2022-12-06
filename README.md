@@ -11,6 +11,7 @@ Pre-trained model:
 1. Monodepth2: mono+stereo_640x192
 
 it's available in Monodepth2's github.
+
 2. DeepLabV3Plus: best_deeplabv3plus_mobilenet_cityscapes_os16.pth
 
 it's available in DeepLabV3Plus's github - dropbox.
